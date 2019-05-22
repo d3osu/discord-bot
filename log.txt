@@ -1,0 +1,4 @@
+5-22-19: 
+
+-Set up discord.js repository and add bot to the Discord server. Setting up for simple ping-pong test.
+-
