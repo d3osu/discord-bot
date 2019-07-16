@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to assist in disseminating information and task organization, amongst other growing responsibilities.",
+  "main": "d3bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nic-stinks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3osu/discord-bot.git"
+  },
+  "author": "Andrew Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3osu/discord-bot/issues"
+  },
+  "homepage": "https://github.com/d3osu/discord-bot#readme"
+}
