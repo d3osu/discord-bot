@@ -10,5 +10,11 @@ client.on("message", (message) => {
     message.channel.send("sucks!");
   }
 });
+
+client.on("message", (message) => {
+	if (message.content.startsWith("!yee")) {
+		message.channel.send("haw");
+	}
+});
  
 client.login("ReplaceWithSecretKeyOnAccountLoginDriveDocumnet");
