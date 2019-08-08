@@ -1,4 +1,11 @@
 5-22-19: 
 
 -Set up discord.js repository and add bot to the Discord server. Setting up for simple ping-pong test.
--
+
+8-7-2019:
+
+-Discussed high level design and functionality
+-Simple project skeleton based on example bot
+-Added test commands for weekly meetings
+
+
