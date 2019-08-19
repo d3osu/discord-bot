@@ -5,7 +5,11 @@
 8-7-2019:
 
 -Discussed high level design and functionality
--Simple project skeleton based on example bot
 -Added test commands for weekly meetings
+
+8-18-2019: 
+
+- Setup index.js
+- Set up project skeleton and relevant Google Sheets pages on the Drive for content management
 
 

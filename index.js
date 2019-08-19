@@ -1,6 +1,23 @@
+/* 
+Direct any questions with this code to Andrew on Discord.
+
+This script handles the setup with Discord, and delegates all messages with the command precedent "!" 
+to a basic interpreter. Handles other things like class setup, etc.
+
+*/
+
+// This will check if the node version you are running is the required
+// Node version, if it isn't it will throw the following error to inform
+// you.
+if (Number(process.version.slice(1).split(".")[0]) < 8) throw new Error("Node 8.0.0 or higher is required. Update Node on your system.");
+
+// Load in dependencies
 const Discord = require("discord.js");
+const Enmap = require("enmap");
+
+// Initialize the client
 const client = new Discord.Client();
- 
+
 client.on("ready", () => {
   console.log("I am ready to rumble.");
 });
