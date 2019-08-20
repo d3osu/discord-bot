@@ -12,4 +12,7 @@
 - Setup index.js
 - Set up project skeleton and relevant Google Sheets pages on the Drive for content management
 
+8-19-2019: 
 
+- Added some node modules for console logging (chalk and moment). Run "npm install" when pulling new changes.
+- 

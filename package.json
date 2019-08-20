@@ -4,7 +4,9 @@
   "description": "Discord bot to assist in disseminating information and task organization, amongst other growing responsibilities.",
   "main": "d3bot.js",
   "dependencies": {
-    "discord.js": "^11.5.0"
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.0",
+    "moment": "^2.24.0"
   },
   "devDependencies": {},
   "scripts": {
