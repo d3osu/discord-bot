@@ -14,6 +14,34 @@ This is the manual page for the Discord bot on Design.Develop.Deploy's Discord s
 + [Changing Content](#changing-content)
 + [Developer Notes](#developer-notes)
 
+[comment]: <> (Embedded HTML in order to display the table of contents with a hierarchy of nested links for navigation)
+
+<ul>
+    <li>[Commands and Functionality](#commands-and-functionality)</li>
+    <li>[Games](#games)
+        <ul>
+            <li> [Pitch Deck](#pitch-deck)
+                <ul>    
+                    <li>[Getting Started](#getting-started)</li>
+                    <li>[Playing the Game](#playing-the-game)</li>
+                    <li>[Finicky Rules](#finicky-rules)</li>
+                </ul>
+            </li>
+
+            <li> [Silicon Valley Startups](#silicon-valley-startups)
+                <ul>
+                    <li>[Set It Up](#set-it-up)</li>
+                    <li>[Time to Pitch](#time-to-pitch)</li>
+                    <li>[Winning a Round](#winning-a-round)</li>
+                    <li>[Winning the Game](#winning-the-game)</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>[Changing Content](#changing-content)</li>
+    <li>[Developer Notes](#developer-notes)</li>
+</ul>
+
 ### Commands and Functionality
 ___
 
