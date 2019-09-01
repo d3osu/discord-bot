@@ -19,17 +19,17 @@ This is the manual page for the Discord bot on Design.Develop.Deploy's Discord s
 *   [Changing Content](#changing-content)
 *   [Developer Notes](#developer-notes)
 
-### Commands and Functionality
+## **Commands and Functionality**
 ___
 
 Coming soon.
 
-### Games
+## **Games**
 ___
 
 The two games under development here _Pitch Deck_ and _Silicon Valley Startups_. The game rules are detailed here, as well as instructions to manage and play the different games. The commands and behavior of the game are also found her.
 
-#### Pitch Deck
+### **Pitch Deck**
 
 Pitch deck is a game about convincing your friends to invest in the most ridiculous startups imaginable. Each round, everyone combines a Pitch Card from their hand with a company card on the table to create a new business, like Uber for piggyback rides or Tinder: The Musical.
 
@@ -37,11 +37,11 @@ Then, everyone makes a quick elevator pitch describing their businesses and why 
 
 There are two winners: the person who pitched the most valuable company and the person who invested the most in that company. 
 
-##### Getting Started
+#### **Getting Started**
 
 Everyone draws a hand of 8 Pitch Cards and takes a stack of 8 funding cards form one of the game's venture capital funds. The VC's all have the same investment amounts printed on their tiles, so people should feel free to chose one based on which they like (or dislike?) the most. 
 
-##### Playing the Game
+#### **Playing the Game**
 
 *Making pitches*: The Lead Investor draws 3 Company cards and reads each name out loud. Then they pick the company they want to hear pitches for, e.g. LinkedIn. Discord the other two cards. 
 
@@ -57,7 +57,7 @@ Everyone except the Lead Investor draws a replacement Pitch card, so you always 
 
 *Scoring*: After everyone has been Lead Investor once, reveal and add up the investment amount, going one company at a time (to build tension). There are two winners: the person who pitched the company with the highest total funding is the winning founder, and the person who invested the most in that company is the winning investor. Either play again or actually go start that company.
 
-##### Finicky Rules
+#### **Finicky Rules**
 
 *Pivoting*: Every card in Pitch deck is hilarious and good. But if someone incorrectly doesn't like the cards they have in their hand, once per game they can disard their hand and draw 8 new cards. 
 
@@ -65,7 +65,7 @@ Everyone except the Lead Investor draws a replacement Pitch card, so you always 
 
 *Pitch Off*: It's possible that a game will end in a tie for one or both winners. When this happens, just like in real business, it immediately triggers a Pitch Off. Draw a company card from the top of the deck and give each tied player a single Pitch card to play - but they can't look at it until immediately before they start their pitch. After the tied players decide their pitches, everyone votes on who wom. 
 
-##### Some Tips and Tricks
+#### **Some Tips and Tricks**
 
 + When in doubt: Keep it simple, stupid. 
 + Don't immediately reveal your pitch. Hint at it, build suspense, and when you finally do reveal it, flip your card over theatrically at the same time.
@@ -78,11 +78,11 @@ Everyone except the Lead Investor draws a replacement Pitch card, so you always 
 
 If you want a physical copy of the game, it can be acquired [here][pitch-deck-amazon].
 
-#### Silicon Valley Startups
+### **Silicon Valley Startups**
 
 Silicon Valley is silimar to Pitch Deck, as it is a hilarious game of pitching crazy companies. Entrerpreneurs must think on their feet and convince an Investor to fund their startup company. The player with the most successful pitches wins the game!
 
-##### Set It Up
+#### **Set It Up**
 
 Pick a player (or team of players if you have a large group) to be the first Investor. They will be listening to the pitches for the first round. Have them shuffle the _HOT TREND_ deck and set it face-down in front of them.
 
@@ -94,7 +94,7 @@ COMPANY NAME cards have instructions for creating the name. If it includes the w
 
 For example: A same card reads _Ask for a flavor + "MAZE"_. You then ask the group for a flavor. If someone replies "chocolate," your company name will be _Chocolate Maze_. 
 
-##### Time to Pitch
+#### **Time to Pitch**
 
 **SINGLE OWNER**: (_Recommended for 3-4 players_)
 Starting with the player to the Investor's left. each Entrepreneur pitches, one at a time, following the steps **in this order**: 
@@ -127,22 +127,22 @@ To ensure players stay on their toes, don't draw the next pitch card until the t
 3.  Use the data and number! They don't need to be accurate or make sense. Reciting numbers and percentages makes you sound really, really smart.
 4.  Name drop. Of course you met with Elon Musk and he wanted to get involved!
 
-##### Winning a Round
+#### **Winning a Round**
 
 After each pitch has been passionately presented, the Investor decides which one they want to invest in. The Entrepreneuer that gets the investment receives one of the _HOT TREND_ cards, using it as a way to keep track of the points.
  
-##### Winning the Game
+#### **Winning the Game**
 
 After each player has been the Investor twice, the player with the most Hot Trend cards wins the game! In the event of a tie, the tied players play a tie-breaking round. If everyone is tied, go for another full round of everyone playing as the Investor to decide the winners.
 
 If you'd like to buy a physical copy of the game, it can be found [here][silicon-valley-url].
 
-### Changing Content
+## **Changing Content**
 ___
 
 Coming soon.
 
-### Developer Notes
+## **Developer Notes**
 ___
 
 Coming soon.
