@@ -15,4 +15,11 @@
 8-19-2019: 
 
 - Added some node modules for console logging (chalk and moment). Run "npm install" when pulling new changes.
+
+8-31-2019: 
+
+- Begin documentation for game instructions as a reference for building the game(s)
+
+9-1-2019:
+
 - 

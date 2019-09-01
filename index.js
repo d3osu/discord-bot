@@ -24,7 +24,8 @@ client.on("ready", () => {
  
 client.on("message", (message) => {
   if (message.content.startsWith("!Nic")) {
-    message.channel.send("sucks!");
+	message.channel.send("sucks!");
+
   }
 });
 
