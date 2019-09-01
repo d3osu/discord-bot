@@ -22,4 +22,6 @@
 
 9-1-2019:
 
+- Finish documentation of game instructions. Will need to be modified for the virtual version of the game when its completed. 
+    This will include commands and server specific adaptations such as using voice channels to pitch. 
 - 

@@ -4,43 +4,20 @@ This is the manual page for the Discord bot on Design.Develop.Deploy's Discord s
 
 **Table of Contents**
 
-+ [Commands and Functionality](#commands-and-functionality)
-+ [Games](#games)
-..+ Pitch Deck
-....+Getting Started
-....+Playing The Game
-....+Finicky Rules
-..* Silicon Valley Startups
-+ [Changing Content](#changing-content)
-+ [Developer Notes](#developer-notes)
-
-[comment]: <> (Embedded HTML in order to display the table of contents with a hierarchy of nested links for navigation)
-
-<ul>
-    <li>[Commands and Functionality](#commands-and-functionality)</li>
-    <li>[Games](#games)
-        <ul>
-            <li> [Pitch Deck](#pitch-deck)
-                <ul>    
-                    <li>[Getting Started](#getting-started)</li>
-                    <li>[Playing the Game](#playing-the-game)</li>
-                    <li>[Finicky Rules](#finicky-rules)</li>
-                </ul>
-            </li>
-
-            <li> [Silicon Valley Startups](#silicon-valley-startups)
-                <ul>
-                    <li>[Set It Up](#set-it-up)</li>
-                    <li>[Time to Pitch](#time-to-pitch)</li>
-                    <li>[Winning a Round](#winning-a-round)</li>
-                    <li>[Winning the Game](#winning-the-game)</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>[Changing Content](#changing-content)</li>
-    <li>[Developer Notes](#developer-notes)</li>
-</ul>
+*   [Commands and Functionality](#commands-and-functionality)
+*   [Games](#games)
+    *   [Pitch Deck](#pitch-deck)
+        *   [Getting Started](#getting-started)
+        *   [Playing the Game](#playing-the-game)
+        *   [Finicky Rules](#finicky-rules)
+        *   [Some Tips and Tricks](#some-tips-and-tricks)
+    *   [Silicon Valley Startups](#silicon-valley-startups)
+        *   [Set It Up](#set-it-up)
+        *   [Time to Pitch](#time-to-pitch)
+        *   [Winning a Round](#winning-a-round)
+        *   [Winning the Game](#winning-the-game)
+*   [Changing Content](#changing-content)
+*   [Developer Notes](#developer-notes)
 
 ### Commands and Functionality
 ___
@@ -64,7 +41,7 @@ There are two winners: the person who pitched the most valuable company and the 
 
 Everyone draws a hand of 8 Pitch Cards and takes a stack of 8 funding cards form one of the game's venture capital funds. The VC's all have the same investment amounts printed on their tiles, so people should feel free to chose one based on which they like (or dislike?) the most. 
 
-##### Playing the game
+##### Playing the Game
 
 *Making pitches*: The Lead Investor draws 3 Company cards and reads each name out loud. Then they pick the company they want to hear pitches for, e.g. LinkedIn. Discord the other two cards. 
 
@@ -88,7 +65,7 @@ Everyone except the Lead Investor draws a replacement Pitch card, so you always 
 
 *Pitch Off*: It's possible that a game will end in a tie for one or both winners. When this happens, just like in real business, it immediately triggers a Pitch Off. Draw a company card from the top of the deck and give each tied player a single Pitch card to play - but they can't look at it until immediately before they start their pitch. After the tied players decide their pitches, everyone votes on who wom. 
 
-##### Some tips and tricks
+##### Some Tips and Tricks
 
 + When in doubt: Keep it simple, stupid. 
 + Don't immediately reveal your pitch. Hint at it, build suspense, and when you finally do reveal it, flip your card over theatrically at the same time.
@@ -98,6 +75,67 @@ Everyone except the Lead Investor draws a replacement Pitch card, so you always 
 + Everyone at the table should feel free to ask the person pitching follow up questions, or even add onto the idea, assuming you're having fun and it's in the spirit of "yes, and..."
 + Don't be competitive about funding: it's a little random on purpose, because the game works better if people play in good faith and just reward the most interesting, creative pitches.
 + Poeple are putting themselves on the line to make you laugh: be supportive!! 
+
+If you want a physical copy of the game, it can be acquired [here][pitch-deck-amazon].
+
+#### Silicon Valley Startups
+
+Silicon Valley is silimar to Pitch Deck, as it is a hilarious game of pitching crazy companies. Entrerpreneurs must think on their feet and convince an Investor to fund their startup company. The player with the most successful pitches wins the game!
+
+##### Set It Up
+
+Pick a player (or team of players if you have a large group) to be the first Investor. They will be listening to the pitches for the first round. Have them shuffle the _HOT TREND_ deck and set it face-down in front of them.
+
+The other players will be Entrepreneurs. Shuffle the other three decks separately and set them face-down in the middle of the table in this order: _COMPANY NAME, TARGET USER, and INDUSTRY_.
+
+**COMPANY NAME Cards**: 
+
+COMPANY NAME cards have instructions for creating the name. If it includes the words "ASK FOR" that means you must ask for the group to provide something for you.
+
+For example: A same card reads _Ask for a flavor + "MAZE"_. You then ask the group for a flavor. If someone replies "chocolate," your company name will be _Chocolate Maze_. 
+
+##### Time to Pitch
+
+**SINGLE OWNER**: (_Recommended for 3-4 players_)
+Starting with the player to the Investor's left. each Entrepreneur pitches, one at a time, following the steps **in this order**: 
+
+1.  Draw 2 _COMPANY NAME_ cards and pick one, discarding the other.
+2.  Draw 2 _TARGET USER_ cards and pick one, discarding the other.
+3.  Draw 2 _INDUSTRY_ cards and pick one, discarding the other.
+
+Pitch your heart out, using all three cards as your guide. The company name, target user and industry must be mentioned in your pitch. Outside of that, anything goes!
+
+**BUT WAIT!!** _There's more._
+At the end of each pitch, the Investor gets to ask the Entrepreneur a question to keep them on their toes. The Investor draws 2 _HOT TREND_ cards and picks one, discarding the other. Then, they ask the Entrepreneur how that Hot Trend will be leveraged with their startup. The Entrepreneur now must pivot to answer the question.
+
+**PARTNERS** _(Recommended for 5+ players, up to 4 people per team_.)
+Starting with the group to the Investor's left, the group of entrepreneurs pitch, taking turns. If there are less than 4 people, just alternate accordingly so nobody goes twice before everyone in the group goes. **In this order**: 
+
+1.  **First Player** - Draw 2 _COMPANY NAME_ cards and pick one, disarding the other. Create the company name using the instructions printed on the card and start pitching!
+2.  **Next Player** - Draw 2 _TARGET USER_ cards and pick one, discarding the other and continue the pitch.
+3.  **Next Player** - Draw 2 _INDUSTRY_ cards and pick one, discarding the other and continue the pitch.
+4.  **Next Player** - The Investor draws 2 _HOT TREND_ cards and picks one, discarding the other. Then, they ask the next player how the Hot Trend will be leveraged with their startup. Player B must pivot to answer the Hot Trend question.
+
+To ensure players stay on their toes, don't draw the next pitch card until the teammate before you has started talking. For example, The player in charge of pitching the _TARGET USER_ doesn't draw and choose their card until after the first player has started pitching the _COMPANY NAME_. An added twist to make the game more interesting!
+
+**SOME PITCHING TIPS**: 
+
+1.  Start with a big, attention-grabbing opener:
+    *   "How would you feel about a company that changes the way we do banking?"
+    *   "Imagine some tech that will let you be lazy and more productive!"
+2.  You may not know what every card means... and it's okay. Make it up! Pitching with passion and humor is the way to go.
+3.  Use the data and number! They don't need to be accurate or make sense. Reciting numbers and percentages makes you sound really, really smart.
+4.  Name drop. Of course you met with Elon Musk and he wanted to get involved!
+
+##### Winning a Round
+
+After each pitch has been passionately presented, the Investor decides which one they want to invest in. The Entrepreneuer that gets the investment receives one of the _HOT TREND_ cards, using it as a way to keep track of the points.
+ 
+##### Winning the Game
+
+After each player has been the Investor twice, the player with the most Hot Trend cards wins the game! In the event of a tie, the tied players play a tie-breaking round. If everyone is tied, go for another full round of everyone playing as the Investor to decide the winners.
+
+If you'd like to buy a physical copy of the game, it can be found [here][silicon-valley-url].
 
 ### Changing Content
 ___
@@ -111,4 +149,6 @@ Coming soon.
 
 [comment]: <> (Here is where you can specify links without cluttering the document. These will not appear in the converted markdown page.)
 
+[pitch-deck-url]: https://www.amazon.com/Pitch-Deck/dp/B076J2KRW1
+[silicon-valley-url]: https://www.amazon.com/Mattel-Silicon-Valley-Startups-Game/dp/B07FWC6TCY
 
