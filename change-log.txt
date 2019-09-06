@@ -24,4 +24,9 @@
 
 - Finish documentation of game instructions. Will need to be modified for the virtual version of the game when its completed. 
     This will include commands and server specific adaptations such as using voice channels to pitch. 
-- 
+
+9-5-2019:
+
+- Added config.js file (on G.Drive) as a base for different bot control roles. To be modified to fit our own server's hierarchy, but later when the bot is functional.
+- Added .gitignore for the config.js file so nobody can access sensitive information (puiblic GitHub). Changes to these configurations will be managed and stored on G.Drive.
+

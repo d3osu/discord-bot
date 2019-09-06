@@ -1,0 +1,3 @@
+# ignore configuration file including sensitive bot info
+config.js
+
