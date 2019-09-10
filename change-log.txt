@@ -30,3 +30,9 @@
 - Added config.js file (on G.Drive) as a base for different bot control roles. To be modified to fit our own server's hierarchy, but later when the bot is functional.
 - Added .gitignore for the config.js file so nobody can access sensitive information (puiblic GitHub). Changes to these configurations will be managed and stored on G.Drive.
 
+9-9-2019: 
+
+- Added node_modules to the .gitignore, as they grew astronomically 
+- isntalled ESLint and supporting npm packages for code management and js linting
+- Configured ESLint using standard JS practices
+- Added Logger class for console testing. Will be modified as needed for the launch.
