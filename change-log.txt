@@ -36,3 +36,9 @@
 - isntalled ESLint and supporting npm packages for code management and js linting
 - Configured ESLint using standard JS practices
 - Added Logger class for console testing. Will be modified as needed for the launch.
+
+9-10-2019: 
+
+- Added boilerplate template for default server settings in config.js (Drive)
+  Will be updated when general bot skeleton and roles are set up correctly
+- 
