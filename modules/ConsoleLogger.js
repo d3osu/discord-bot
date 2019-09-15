@@ -1,6 +1,7 @@
 /*
-Class to log all bot interactions to various outputs
+Module to log all bot interactions to the console
 Based on https://github.com/AnIdiotsGuide/guidebot/blob/master/modules/Logger.js
+
 */
 
 // imports
@@ -8,10 +9,10 @@ const chalk = require('chalk');
 const moment = require('moment');
 
 /*
+Simple logging based on the content and type of message sent.
+
 Params: text - the content of the sent message
         type - what kind of message it was
-
-Simple logging to the console for development purposes
 */
 exports.log = (text, type = 'log') => {
   const timestamp = `[${moment().format('LTS')}]`;

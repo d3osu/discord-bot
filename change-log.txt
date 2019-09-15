@@ -41,4 +41,7 @@
 
 - Added boilerplate template for default server settings in config.js (Drive)
   Will be updated when general bot skeleton and roles are set up correctly
-- 
+
+9-14-2019: 
+
+= 

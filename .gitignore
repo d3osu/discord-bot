@@ -1,5 +1,5 @@
-# ignore configuration file including sensitive bot info
-config.js
+# ignore configuration file(s) including sensitive bot info
+/secret
 
 # With ESLint, the modules are far too long
 # Dependencies can be installed with npm-install-all
