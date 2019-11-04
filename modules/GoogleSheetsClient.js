@@ -10,5 +10,5 @@ import {google} from 'googleapis'
 
 // Object interface style module
 var GoogleSheetsClient = (function () {
-    
+  
 })();
