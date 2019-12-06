@@ -44,4 +44,14 @@
 
 9-14-2019: 
 
-= 
+- Temporarily removed JS linting (need to maintain no lines between code, 
+  2 space indents)
+- Added new Google Sheets module file
+- Began writing PitchDeck class to hold all relevant functionality
+
+9-28-2019 (TODO): 
+
+- Add new module for generic reusable functions (like user prompts)
+- Set up Sheets API module and install npm packages
+- Finish PitchDeck class
+- Finish Sheets Client and game data representation
