@@ -2,19 +2,17 @@
 Javascript class to represent the Pitch Deck game, modified for the use of 
 D3 Discord server.
 
-The rules and uses of this class can be found in the repo's README
+The rules and uses of this class can be found in the repo's readme.md
 */
 
-// Requires the Google Sheets module
+
 
 
 class PitchDeck {
     constructor(channel = 'pitch-deck-temp'){
         this.channel = channel;
     }
-
-    //region Methods
-
+    
     /* 
     Runs a game of Pitch Deck from start to finish.
 
@@ -22,6 +20,4 @@ class PitchDeck {
     below to follow flow of the game.  
     */
     game()
-
-    //endregion
 }

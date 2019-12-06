@@ -14,7 +14,7 @@ Simple logging based on the content and type of message sent.
 Params: text - the content of the sent message
         type - what kind of message it was
 */
-exports.log = (text, type = 'log') => {
+exports.logger = (text, type = 'log') => {
   const timestamp = `[${moment().format('LTS')}]`;
   switch (type) {
     case 'log': {
