@@ -27,8 +27,7 @@ Coming soon.
 ## **Games**
 ___
 
-The two games under development here _Pitch Deck_ and _Silicon Valley Startups_. The game rules are detailed here, as well as instructions to manage and play the different games. The commands and behavior of the game are also found her.
-
+The two games under development here _Pitch Deck_ and _Silicon Valley Startups_. The game rules are detailed here as they are shown in the physical deck, as well as instructions to play the different games. The commands and Discord setup for the games are embedded in the rules. The game will also provide information in its corresponding text channel.
 ### **Pitch Deck**
 
 Pitch deck is a game about convincing your friends to invest in the most ridiculous startups imaginable. Each round, everyone combines a Pitch Card from their hand with a company card on the table to create a new business, like Uber for piggyback rides or Tinder: The Musical.
@@ -145,7 +144,15 @@ Coming soon.
 ## **Developer Notes**
 ___
 
-Coming soon.
+This bot was written using Node.js, a runtime for building javascript apps outside of a browser. Firstly, make sure you have Node.js installed on your machine. 
+
+The bot's repository is located on D3's Github page, housed in the **discord-bot** repository. Download or clone this repository to your machine. To install the dependencies of this project, run _npm install_ in your terminal / editor. This will install all the required dependencies to run the bot locally. 
+
+If you wish to contribute, contact me directly on Discord or via e-mail at andrew.m.jordan@outlook.com to be added to the D3 Github organization and / or as a contributor on the bot itself. Contributing is as simple as forking the repository, writing your code, and submitting a pull request.
+
+... Coming soon ...
+
+There is a straightforward _/tests_ folder that will give much insight into the expected behaviors of the Discord bot. There is a dependancy of Mocha.js, which will allow you to run any tests in the _/tests_ directory by running "mocha" in the terminal of this Node project.
 
 [comment]: <> (Here is where you can specify links without cluttering the document. These will not appear in the converted markdown page.)
 

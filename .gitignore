@@ -4,3 +4,6 @@
 # With ESLint, the modules are far too long
 # Dependencies can be installed with npm-install-all
 /node_modules
+
+# credentials json file
+credentials.json

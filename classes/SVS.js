@@ -19,5 +19,5 @@ class SVS {
   Pulls game data from Drive, and is responsible for calling helper functions
   below to follow flow of the game.  
   */
-  game()
+  runGame()
 } 
