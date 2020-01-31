@@ -28,6 +28,7 @@ Coming soon.
 ___
 
 The two games under development here _Pitch Deck_ and _Silicon Valley Startups_. The game rules are detailed here as they are shown in the physical deck, as well as instructions to play the different games. The commands and Discord setup for the games are embedded in the rules. The game will also provide information in its corresponding text channel.
+
 ### **Pitch Deck**
 
 Pitch deck is a game about convincing your friends to invest in the most ridiculous startups imaginable. Each round, everyone combines a Pitch Card from their hand with a company card on the table to create a new business, like Uber for piggyback rides or Tinder: The Musical.

@@ -1,20 +1,20 @@
 /* 
-Javascript class to represent the Pitch Deck game
+Javascript class to represent the Silicon Valley Startups game
 Modified for the use of D3 Discord server.
 
 The rules and uses of this class can be found in the repo's readme.md
 */
 
-const GoogleSheetsClient = require('/../modules/GoogleSheetsClient.js');
-const Logger = require('/../modules/ConsoleLogger.js');
+const GoogleSheetsClient = require('../modules/GoogleSheetsClient.js');
+const Logger = require('../modules/ConsoleLogger.js');
 
-class PitchDeck {
-  constructor(channel = 'pitchdeck-temp'){
+class SVSGame {
+  constructor(channel = 'svs-temp'){
       this.channel = channel;
   }
 
   /* 
-  Runs a game of Pitch deck from start to finish.
+  Runs a game of SVS from start to finish.
 
   Pulls game data from Drive, and is responsible for calling helper functions
   below to follow flow of the game.  

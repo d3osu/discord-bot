@@ -1,4 +1,4 @@
-const Logger = require('./../modules/ConsoleLogger')
+const Logger = require('../modules/ConsoleLogger')
 
 Logger.print('This is a log message / white on black', 'log');
 Logger.print('This is a warning / yellow background', 'warn');

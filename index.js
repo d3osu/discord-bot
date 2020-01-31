@@ -1,9 +1,7 @@
 /* 
 Direct any questions with this code to Andrew on Discord.
 
-This script handles the setup with Discord, and delegates all messages with the command precedent "!" 
-to a basic interpreter. Handles other things like class setup, etc.
-
+Home script that manages all of the bot services. Delegates work to the proper 
 */
 
 // This will check if the node version you are running is the required
@@ -58,5 +56,4 @@ client.on("message", (message) => {
 /*
 	Tasks sections.
 */
- 
 client.login("INSERT BOT TOKEN");
