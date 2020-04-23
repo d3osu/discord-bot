@@ -3,7 +3,7 @@ Module to extract spreadsheet data from Google Sheets for the bot.
 Resources: https://developers.google.com/sheets/api/quickstart/nodejs
 
 Used in the context of a VM or running on a local machine as opposed to 
-bot deployed to a server.
+bot deployed to a server (i.e. Amazon EC2).
 */
 
 const Logger = require('./ConsoleLogger')
